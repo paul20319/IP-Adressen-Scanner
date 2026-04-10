@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("20260410_IP-Adressen-Scanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b54a3ab5f2f98222f5fbdbfc06fda1bc4b9d1b0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c5f33db9779128cd1c39fb36490011d8aaee20d")]
 [assembly: System.Reflection.AssemblyProductAttribute("20260410_IP-Adressen-Scanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("20260410_IP-Adressen-Scanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

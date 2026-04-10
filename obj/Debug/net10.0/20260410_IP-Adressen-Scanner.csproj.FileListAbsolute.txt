@@ -3,3 +3,13 @@ C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adre
 C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\20260410_IP-Adressen-Scanner.AssemblyInfo.cs
 C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\20260410_IP-Adressen-Scanner.csproj.CoreCompileInputs.cache
 C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\20260410_IP-Adressen-Scanner.sourcelink.json
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\bin\Debug\net10.0\20260410_IP-Adressen-Scanner.exe
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\bin\Debug\net10.0\20260410_IP-Adressen-Scanner.deps.json
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\bin\Debug\net10.0\20260410_IP-Adressen-Scanner.runtimeconfig.json
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\bin\Debug\net10.0\20260410_IP-Adressen-Scanner.dll
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\bin\Debug\net10.0\20260410_IP-Adressen-Scanner.pdb
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\20260410_IP-Adressen-Scanner.dll
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\refint\20260410_IP-Adressen-Scanner.dll
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\20260410_IP-Adressen-Scanner.pdb
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\20260410_IP-Adressen-Scanner.genruntimeconfig.cache
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\ref\20260410_IP-Adressen-Scanner.dll
