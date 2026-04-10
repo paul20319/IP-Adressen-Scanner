@@ -18,6 +18,21 @@ namespace _20260410_IP_Adressen_Scanner
                 string iP = baseIp + i;
 
                 Ping ping = new Ping();
+                try
+                {
+                    PingReply reply = await ping.SendPingAsync(iP, 100);
+
+                    if (reply.Status == IPStatus.Success)
+                    {
+                        Console.WriteLine($"Aktiv: {iP}");
+                    }
+                }
+                catch
+                {
+
+                }
+
+                
             }
 
             Console.WriteLine("\nScan abgeschlossen.");
