@@ -1,0 +1,5 @@
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\20260410_IP-Adressen-Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\20260410_IP-Adressen-Scanner.AssemblyInfoInputs.cache
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\20260410_IP-Adressen-Scanner.AssemblyInfo.cs
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\20260410_IP-Adressen-Scanner.csproj.CoreCompileInputs.cache
+C:\Users\P.Putz\OneDrive - HTL Vöcklabruck\4AHWII\SWP\Projekte\20260410_IP-Adressen-Scanner\20260410_IP-Adressen-Scanner\obj\Debug\net10.0\20260410_IP-Adressen-Scanner.sourcelink.json
