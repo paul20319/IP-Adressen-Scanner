@@ -11,11 +11,12 @@ namespace _20260410_IP_Adressen_Scanner
 
             string baseIp = "192.168.1."; 
 
-            ´var tasks = new List<Task>();
+            for (int i = 1; i < 255; i++)
+            {
 
-            
-             
+            }
 
+            Console.WriteLine("\nScan abgeschlossen.");
 
         }
     }
